@@ -1,8 +1,8 @@
 # Dynamic Form App
 
-This is a small application to create dynamic forms. It uses React, TypeScript, and Vite.
+This is a small application to create dynamic forms. It uses React, TypeScript, and Vite. It also uses some libraries like `react-hook-form`. The app uses the Context API from React to manage the internal state.
 
-This app simulates an external HTTP request using the **Repository Pattern**. You can find the repository at `src/components/repositories/InMemoryRepository.tsx`. There, you'll find a `fetchData`async method, and a fake database structure with the form data. You can setup different form configurations.
+This app simulates an external HTTP request using the **Repository Pattern**. You can find the repository at `src/components/repositories/InMemoryRepository.tsx`. There, you'll find a `fetchData`async method, and a fake database structure with the form data. You can set up different form configurations.
 
 This form allows you to validate fields by adding the correct message errors.
 
