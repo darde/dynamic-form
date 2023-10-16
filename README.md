@@ -30,6 +30,10 @@ In order to create dynamic forms you should set the form data (located in the `I
 | errorMessage| (optional) The error message for required fields | string |
 | options     | (optional) An array of options for select fields | string[] |
 
+## Screenshots
+
+https://github.com/darde/dynamic-form/assets/24977035/39f979a8-3d8f-44b7-a0cc-82ef43d3c461
+
 ## Running
 
 Ensure you have both node and npm installed.
